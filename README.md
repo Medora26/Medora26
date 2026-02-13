@@ -58,7 +58,7 @@ Healthcare data is scattered, hard to manage, and often inaccessible when needed
 
 ## 🛠️ Project Status
 
-<div align="center">
+<div align="left">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF6c25lY3NiYmZ4bzkxcms3MGlibGkzMnZoNjEzNHc4cGR6Zmh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2GjgvS5vA6y08/giphy.gif" width="300"/>
 
