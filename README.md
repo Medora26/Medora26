@@ -3,7 +3,7 @@
 # 🩺 MEDORA  
 ### Your Digital Health Drive 💾🛡️  
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2s1eW42OXh5cHFwZGZkcHFxbHVjdGM3b3NvNmk2dzV5NHludTM5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1L0dHsQrUpkv8Org7/giphy.gif" width="400"/>
 
 **Secure • Simple • User-Controlled**
 
