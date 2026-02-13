@@ -60,7 +60,7 @@ Healthcare data is scattered, hard to manage, and often inaccessible when needed
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/8YmZ14DOpivXMuckSI/giphy.gif" width="300"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm80MDBnemYybG80OHo3Z2Z4bmM2ZXFyZW5yMHloZzAwbHRmdmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgkiN5O8pRYYR6MCPE/giphy.gif" width="300"/>
 
 </div>
 
