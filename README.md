@@ -40,7 +40,7 @@ Healthcare data is scattered, hard to manage, and often inaccessible when needed
 
 ## 💡 Key Features
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm80MDBnemYybG80OHo3Z2Z4bmM2ZXFyZW5yMHloZzAwbHRmdmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgkiN5O8pRYYR6MCPE/giphy.gif" width="260"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm80MDBnemYybG80OHo3Z2Z4bmM2ZXFyZW5yMHloZzAwbHRmdmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgkiN5O8pRYYR6MCPE/giphy.gif" width="260" height="240" />
 
 - 📂 **Medical Data Storage**  
   Store reports, prescriptions, and health history securely—like a cloud drive.
