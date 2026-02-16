@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 🤝 Looking for Indie Developers & Builders
 
