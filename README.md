@@ -1,12 +1,34 @@
 <div align="center">
 
+# 🤝 Looking for Indie Developers & Builders
+
+🚀 **Building MEDORA in public** and actively looking for **indie developers** who want to collaborate, learn, and ship something meaningful together.
+
+If you’re interested in:
+- 🧑‍💻 Web development
+- ⚛️ React / Next.js
+- 🔐 Auth, storage & system design
+- 🩺 Health-tech with real-world impact
+
+You’re very welcome here.
+
+👉 Open an issue, start a discussion, or reach out via GitHub.  
+Let’s build, break, and learn together 🌱
+
+**#indiedev #indiehacker #opensource #buildinpublic #nextjs #healthtech**
+
+</div>
+
+---
+
+<div align="center">
+
 # 🩺 MEDORA  
 ### Your Digital Health Drive 💾🛡️  
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2s1eW42OXh5cHFwZGZkcHFxbHVjdGM3b3NvNmk2dzV5NHludTM5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1L0dHsQrUpkv8Org7/giphy.gif" width="400"/>
 
 <br/>
-
 
 **Secure • Simple • User-Controlled**
 
@@ -109,10 +131,15 @@ Healthcare data is scattered, hard to manage, and often inaccessible when needed
 
 </div>
 
-We’re just getting started 🌱  
-Ideas, feedback, and discussions are always welcome.
+This project is **open to indie developers and contributors** 🌱  
 
-Feel free to open issues or start a conversation.
+You can:
+- Open issues  
+- Share ideas or feedback  
+- Pick features to build  
+- Help shape the roadmap  
+
+No pressure. No hierarchy. Just building together.
 
 ---
 
